@@ -1,0 +1,8 @@
+{
+  "labels": {
+    "addDescription": "Generate coupon codes",
+    "add": "Generate",
+    "title": "Amount of coupon codes",
+    "fetch": "Fetch coupon"
+  }
+}

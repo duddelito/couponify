@@ -1,0 +1,15 @@
+.form {
+    background: floralwhite;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 20px;
+    width: 250px;
+}
+
+input,textarea {
+    margin: 10px 0;
+    width: 93%;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 7px;
+}
